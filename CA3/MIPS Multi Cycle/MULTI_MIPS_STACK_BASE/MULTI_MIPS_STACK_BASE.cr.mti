@@ -1,0 +1,109 @@
+C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/ALU.v {0 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+** Error: C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/ALU.v(5): near "â": syntax error, unexpected non-printable character 0xe2
+** Error: C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/ALU.v(5): syntax error, unexpected non-printable character 0x80
+** Error: C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/ALU.v(5): syntax error, unexpected non-printable character 0x8c
+
+} {4.0 7.0} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Mux.v {1 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Mux.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/stack_TB.v {1 {vlog -work work {C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\stack_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module stack_TB
+
+Top level modules:
+	stack_TB
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/PC.v {1 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/PC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/DP.v {1 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/DP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DP
+
+Top level modules:
+	DP
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Controller.v {1 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+-- Compiling module TB_Controller
+
+Top level modules:
+	TB_Controller
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM_TB.v {1 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mem_tb
+
+Top level modules:
+	mem_tb
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/SE_TB.v {1 {vlog -work work {C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\SE_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SE_TB
+
+Top level modules:
+	SE_TB
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM.v {1 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM
+
+Top level modules:
+	MEM
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/IfZero.v {1 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/IfZero.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IfZero
+-- Compiling module TB_IfZero
+
+Top level modules:
+	TB_IfZero
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register_without_ld.v {1 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register_without_ld.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register_without_ld
+
+Top level modules:
+	register_without_ld
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register.v {1 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/stack.v {1 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/stack.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module stack
+
+Top level modules:
+	stack
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/SE.v {1 {vlog -work work C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/SE.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SE
+
+Top level modules:
+	SE
+
+} {} {}} C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MIPS.v {1 {vlog -work work {C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\MIPS.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS
+-- Compiling module TB_MIPS
+
+Top level modules:
+	TB_MIPS
+
+} {} {}}

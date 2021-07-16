@@ -1,0 +1,69 @@
+`include "defs.v"
+
+module DP(
+  input clk, rst, 
+  output reg [12:0] hit_cnt, 
+  output [`LEN_DATA-1:0] o_data
+);
+  
+  wire [127:0] data_128_bit;
+  wire write, read, mem_ready, hit, done;
+  wire [`LEN_DATA-1:0] mem_in_data;
+  wire [`LEN_ADR-1:0] adr;
+  
+  MEM _mem(
+    write, read,
+    adr, 
+    mem_in_data, 
+    mem_ready,
+    data_128_bit
+  );
+
+  
+  Cache _cache(
+    clk, rst, write,
+    data_128_bit,
+    adr,
+    hit,
+    o_data
+  );
+
+  Cach_CU _cache_cu(
+    clk, rst,
+    hit, mem_ready,
+    read, done, write
+  );
+  
+  always @(posedge clk, posedge rst) begin
+    if (rst) hit_cnt <= 0;
+    else if(hit) hit_cnt <= hit_cnt + 1;
+  end
+  
+  
+endmodule
+
+
+
+
+
+
+
+module TB();
+  
+  reg clk = 0 , rst = 0;
+  wire [12:0] hit_cnt;
+  wire [`LEN_DATA-1:0] o_data;
+  
+  
+  DP UUT(
+    clk, rst, 
+    hit_cnt, 
+    o_data
+  );
+  
+  initial begin
+    
+    
+  end
+endmodule
+

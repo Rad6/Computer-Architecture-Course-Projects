@@ -1,0 +1,324 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE
+vadder
+Z1 !s100 e?Nlm8`=WHYPHW:CcKm]:0
+Z2 ImMSY_18MdcQOP^gigFf:b2
+Z3 VB_ARJQfSY4<eL:Fi5LO8T3
+Z4 dC:\Users\Asus\Desktop\MIPS_PIPELINE
+Z5 w1555253509
+Z6 8C:/Users/Asus/Desktop/MIPS_PIPELINE/adder.v
+Z7 FC:/Users/Asus/Desktop/MIPS_PIPELINE/adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/adder.v|
+Z10 o-work work -O0
+Z11 !s108 1559286469.532000
+Z12 !s107 C:/Users/Asus/Desktop/MIPS_PIPELINE/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z13 !s100 d>TEd_]no2VdE5Ai]]ic?2
+Z14 IQS_gY3AnQ6IERYBKEB[aL0
+Z15 V8l_Bm0I;W@aGMAzVXX4:;2
+R4
+Z16 w1559190918
+Z17 8C:/Users/Asus/Desktop/MIPS_PIPELINE/ALU.v
+Z18 FC:/Users/Asus/Desktop/MIPS_PIPELINE/ALU.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/ALU.v|
+R10
+Z20 n@a@l@u
+Z21 !s108 1559286469.608000
+Z22 !s107 defs.v|C:/Users/Asus/Desktop/MIPS_PIPELINE/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vForwardingUnit
+Z23 !s100 d]Y`MAdA1K7OgSRF7dj:13
+Z24 IoGA@M9B[UMHIN]:lgI]n=2
+Z25 VH`@UJkXfzQCn8Ee]jM5CZ1
+R4
+Z26 w1559286465
+Z27 8C:/Users/Asus/Desktop/MIPS_PIPELINE/ForwardingUnit.v
+Z28 FC:/Users/Asus/Desktop/MIPS_PIPELINE/ForwardingUnit.v
+L0 26
+R8
+r1
+31
+Z29 !s108 1559286470.418000
+Z30 !s107 defs.v|C:/Users/Asus/Desktop/MIPS_PIPELINE/ForwardingUnit.v|
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/ForwardingUnit.v|
+R10
+Z32 n@forwarding@unit
+!i10b 1
+!s85 0
+!s101 -O0
+vHazardDetecting
+!i10b 1
+Z33 !s100 =Ah^PkYbB]5WZSef6<FEU3
+Z34 IL5XJb[0Jo?W`GHQXYUg1N0
+Z35 VL<SlHZ7HbRY;::d;D=C4C3
+R4
+Z36 w1558969839
+Z37 8C:/Users/Asus/Desktop/MIPS_PIPELINE/HazardDetecting.v
+Z38 FC:/Users/Asus/Desktop/MIPS_PIPELINE/HazardDetecting.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1559286470.521000
+!s107 C:/Users/Asus/Desktop/MIPS_PIPELINE/HazardDetecting.v|
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/HazardDetecting.v|
+!s101 -O0
+R10
+Z40 n@hazard@detecting
+vIM
+Z41 !s100 fA2m:OUQlVMbJz;]nV1A`0
+Z42 I=[J:Ilcj5F0nYk?Fh1>>n3
+Z43 V[e`GX]7]EDa32mWlTL:WG0
+R4
+Z44 w1558955932
+Z45 8C:/Users/Asus/Desktop/MIPS_PIPELINE/IM.v
+Z46 FC:/Users/Asus/Desktop/MIPS_PIPELINE/IM.v
+L0 2
+R8
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/IM.v|
+R10
+n@i@m
+Z48 !s108 1559286469.733000
+Z49 !s107 defs.v|C:/Users/Asus/Desktop/MIPS_PIPELINE/IM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM
+Z50 !s100 O8]mkX5B_5=JQb@e2GJnn0
+Z51 I^2WZ57OaW8IUH?=O>kA1Q1
+Z52 VfC8CfKabZbJ:LcPP<=JQn3
+R4
+Z53 w1558942680
+Z54 8C:/Users/Asus/Desktop/MIPS_PIPELINE/MEM.v
+Z55 FC:/Users/Asus/Desktop/MIPS_PIPELINE/MEM.v
+L0 3
+R8
+r1
+31
+Z56 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/MEM.v|
+R10
+Z57 n@m@e@m
+Z58 !s108 1559286469.805000
+Z59 !s107 defs.v|C:/Users/Asus/Desktop/MIPS_PIPELINE/MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2
+Z60 !s100 zla>jDmfNY4MIL]FmLG0=2
+Z61 Ige56oQ]Re1=FLNHeSYP?_1
+Z62 VlPVOQSc_We=I@[Ln5bC7`2
+R4
+Z63 w1555258304
+Z64 8C:/Users/Asus/Desktop/MIPS_PIPELINE/Mux.v
+Z65 FC:/Users/Asus/Desktop/MIPS_PIPELINE/Mux.v
+L0 1
+R8
+r1
+31
+Z66 !s108 1559286469.875000
+Z67 !s107 C:/Users/Asus/Desktop/MIPS_PIPELINE/Mux.v|
+Z68 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/Mux.v|
+R10
+Z69 n@mux2
+!i10b 1
+!s85 0
+!s101 -O0
+vMux3
+Z70 !s100 fPGdH2Angb7EZ>1Umi0ll0
+Z71 Ie1@o=ONNbEaZ@RT1fNf;02
+Z72 VH]Z34[L:LIhSO1WiC:UBz1
+R4
+R63
+R64
+R65
+L0 8
+R8
+r1
+31
+R66
+R67
+R68
+R10
+Z73 n@mux3
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z74 !s100 TPPj5Uih4GY4]eo:aA]gP3
+Z75 Ia8jlz`XZAg_IPBJ:WXjB82
+Z76 VjDULgan5icP>`kcVHHYQ`2
+R4
+Z77 w1558942780
+Z78 8C:/Users/Asus/Desktop/MIPS_PIPELINE/PC.v
+Z79 FC:/Users/Asus/Desktop/MIPS_PIPELINE/PC.v
+L0 3
+R8
+r1
+31
+Z80 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/PC.v|
+R10
+n@p@c
+Z81 !s108 1559286469.963000
+Z82 !s107 defs.v|C:/Users/Asus/Desktop/MIPS_PIPELINE/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_EX_MEM
+Z83 !s100 S0dLE]All7glQ1Cjn7mGW2
+Z84 IQPKfZ5BW1CUANPAC[nOT11
+Z85 V^B<OMC=[]TRF4kz>FIfn]0
+R4
+Z86 w1558960744
+Z87 8C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_EX_MEM.v
+Z88 FC:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_EX_MEM.v
+L0 3
+R8
+r1
+31
+Z89 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_EX_MEM.v|
+R10
+Z90 n@reg_@e@x_@m@e@m
+Z91 !s108 1559286470.344000
+Z92 !s107 defs.v|C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_EX_MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_ID_EX
+Z93 !s100 VMj8I?zI`g0h6c64MQI^41
+Z94 IG@Uk?ZF_j9zc8ZQ3mfEX63
+Z95 VD>@Co2HPkMkI5kWbMI<ki3
+R4
+Z96 w1558958032
+Z97 8C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_ID_EX.v
+Z98 FC:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_ID_EX.v
+L0 3
+R8
+r1
+31
+Z99 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_ID_EX.v|
+R10
+Z100 n@reg_@i@d_@e@x
+Z101 !s108 1558960705.117000
+Z102 !s107 defs.v|C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_ID_EX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_IF_ID
+Z103 !s100 TG[^N4Z[dK5kihHh:Q`C63
+Z104 Ii5;Kea8CjIhoBOMic<nTh1
+Z105 VACTV0i^Y[[WiG@Y@EFPS41
+R4
+Z106 w1558954105
+Z107 8C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_IF_ID.v
+Z108 FC:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_IF_ID.v
+L0 3
+R8
+r1
+31
+Z109 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_IF_ID.v|
+R10
+Z110 n@reg_@i@f_@i@d
+Z111 !s108 1559286470.107000
+Z112 !s107 defs.v|C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_IF_ID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_MEM_WB
+Z113 !s100 S2`LBocVMDino;39R6ZPk1
+Z114 I[NYWe7M:`:M33oVQ^ejDX2
+Z115 VBf_WIVFXE;Z:H0XTEM94J2
+R4
+Z116 w1558960505
+Z117 8C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_MEM_WB.v
+Z118 FC:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_MEM_WB.v
+L0 3
+R8
+r1
+31
+Z119 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_MEM_WB.v|
+R10
+Z120 n@reg_@m@e@m_@w@b
+Z121 !s108 1559286470.177000
+Z122 !s107 defs.v|C:/Users/Asus/Desktop/MIPS_PIPELINE/Reg_MEM_WB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRF
+Z123 !s100 g7KIdCa66KBFj@0RjKiJ[1
+Z124 IQYTCQ[1CLUinQdVj@SlQf0
+Z125 Vg[]5M]`81OLP9g<h2]VlS2
+R4
+Z126 w1559282612
+Z127 8C:/Users/Asus/Desktop/MIPS_PIPELINE/RF.v
+Z128 FC:/Users/Asus/Desktop/MIPS_PIPELINE/RF.v
+L0 3
+R8
+r1
+31
+Z129 !s108 1559286470.245000
+Z130 !s107 defs.v|C:/Users/Asus/Desktop/MIPS_PIPELINE/RF.v|
+Z131 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS_PIPELINE/RF.v|
+R10
+n@r@f
+!i10b 1
+!s85 0
+!s101 -O0
+vTB_ForwardingUnit
+Z132 IcZ[ATOnM>`<4ZfHTQkWV70
+Z133 VMmfa=fN4bJFnga5N@UY[Z3
+R4
+R26
+R27
+R28
+L0 66
+R8
+r1
+31
+R29
+R30
+R31
+R10
+Z134 n@t@b_@forwarding@unit
+!i10b 1
+Z135 !s100 EM8o3TLakZ<9EWn]M2hEm0
+!s85 0
+!s101 -O0
+vTB_RF
+Z136 !s100 0UNz<F51UPbAE3jo3o3DE2
+Z137 IE[KSG9<d9X2=NzIHIT3[o0
+Z138 V<A8MG0[jBZj35zCf9eDjE1
+R4
+R126
+R127
+R128
+L0 32
+R8
+r1
+31
+R129
+R130
+R131
+R10
+Z139 n@t@b_@r@f
+!i10b 1
+!s85 0
+!s101 -O0

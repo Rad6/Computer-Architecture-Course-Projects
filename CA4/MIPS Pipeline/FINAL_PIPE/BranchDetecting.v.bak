@@ -1,0 +1,25 @@
+module HazardDetecting (input EX_memread, eq, input [4:0] ID_rt, ID_rs, EX_rt, input [5:0] opc,
+                         output pc_ld, IF_ID_reg_ld, hazard_detected, flush);
+  
+  //hazard_detected goes to sel of mux
+  
+  wire is_beq, is_bne;
+  assign is_beq = (opc == 6'b000100);
+  assign is_bne = (opc == 6'b000101);
+  
+  wire beq_cond, bne_cond;
+  assign beq_cond = (is_beq && eq);
+  assign bne_cond = (is_bne && ~eq);
+  
+  assign flush = (beq_cond || bne_cond) ? 1'b1 : 1'b0;
+  
+  wire lw_cond;
+  assign lw_cond = ( ((ID_rt == EX_rt)||(ID_rs == EX_rt)) && EX_memread );
+
+  assign hazard_detected = (flush || lw_cond) ? 1'b1 : 1'b0; 
+  // 0 will go to control signals if hazard_detected is 1
+  assign pc_ld = lw_cond ? 1'b0 : 1'b1;
+  assign IF_ID_reg_ld = pc_ld;
+  
+endmodule
+

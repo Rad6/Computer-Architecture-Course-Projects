@@ -1,0 +1,35 @@
+C:/Users/Asus/Desktop/CA5/Cache_CU.v {1 {vlog -work work C:/Users/Asus/Desktop/CA5/Cache_CU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Cach_CU
+
+Top level modules:
+	Cach_CU
+
+} {} {}} C:/Users/Asus/Desktop/CA5/DP.v {1 {vlog -work work {C:\Users\Asus\Desktop\CA5\DP.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DP
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} C:/Users/Asus/Desktop/CA5/Cache.v {1 {vlog -work work C:/Users/Asus/Desktop/CA5/Cache.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Cache
+-- Compiling module cache_tb
+
+Top level modules:
+	cache_tb
+
+} {} {}} C:/Users/Asus/Desktop/CA5/MainMemory.v {1 {vlog -work work C:/Users/Asus/Desktop/CA5/MainMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM
+-- Compiling module TB_MEM
+
+Top level modules:
+	TB_MEM
+
+} {} {}} C:/Users/Asus/Desktop/CA5/defs.v {1 {vlog -work work C:/Users/Asus/Desktop/CA5/defs.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}}

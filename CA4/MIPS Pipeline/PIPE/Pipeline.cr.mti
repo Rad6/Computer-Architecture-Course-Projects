@@ -1,0 +1,134 @@
+C:/Users/Asus/Desktop/PIPE/Reg_ID_EX.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/Reg_ID_EX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg_ID_EX
+
+Top level modules:
+	Reg_ID_EX
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/IM.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/IM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/SE.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/SE.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SE
+
+Top level modules:
+	SE
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/Reg_IF_ID.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/Reg_IF_ID.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg_IF_ID
+
+Top level modules:
+	Reg_IF_ID
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/Control.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/Control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/HazardDetecting.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/HazardDetecting.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HazardDetecting
+-- Compiling module HazardDetecting_TB
+
+Top level modules:
+	HazardDetecting_TB
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/ALU.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/defs.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/defs.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/Mux.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/Mux.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2
+-- Compiling module Mux3
+
+Top level modules:
+	Mux2
+	Mux3
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/PC.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/PC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/DP.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/DP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DP
+
+Top level modules:
+	DP
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/Reg_MEM_WB.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/Reg_MEM_WB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg_MEM_WB
+
+Top level modules:
+	Reg_MEM_WB
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/Pipeline.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/Pipeline.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Pipeline
+-- Compiling module TB_PIPELINE
+
+Top level modules:
+	TB_PIPELINE
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/MEM.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/MEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM
+
+Top level modules:
+	MEM
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/adder.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/Reg_EX_MEM.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/Reg_EX_MEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg_EX_MEM
+
+Top level modules:
+	Reg_EX_MEM
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/RF.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/RF.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/BranchPredictor.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/BranchPredictor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BranchPredictor
+
+Top level modules:
+	BranchPredictor
+
+} {} {}} C:/Users/Asus/Desktop/PIPE/ForwardingUnit.v {1 {vlog -work work C:/Users/Asus/Desktop/PIPE/ForwardingUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}}

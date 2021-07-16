@@ -1,0 +1,360 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\DDrive\Known\University's Books\UNI\Term 4\DLD Lab\Exp 3\Extera\3
+vALU
+Z1 !s100 iL0<TE<^YnJ7JzNhONbSY0
+Z2 I2IF2kgj^M>RocjQ58hdjC1
+Z3 V0k@k96:B03beV>`e1WR=81
+Z4 dC:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE
+Z5 w1557693430
+Z6 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/ALU.v
+Z7 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1557766655.459000
+Z13 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vController
+Z14 !s100 m28ELHBeI6Q9^jChOHgB10
+Z15 IgAN@JSMn4b4]dImzRhZc`0
+Z16 V4jQJTaEV`imL<W3HMV;M90
+R4
+Z17 w1557739614
+Z18 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Controller.v
+Z19 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Controller.v
+L0 2
+R8
+r1
+31
+Z20 !s108 1559200690.942000
+Z21 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Controller.v|
+Z22 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Controller.v|
+R10
+Z23 n@controller
+!i10b 1
+!s85 0
+!s101 -O0
+vDP
+Z24 !s100 OhbWkfVJdZd5f>Ae<U<Em0
+Z25 I4EM4O?zXIIH_>2[JFaPiF1
+Z26 VP>a_0]XkkPPoWJRUIAjQ31
+R4
+Z27 w1557743859
+Z28 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/DP.v
+Z29 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/DP.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/DP.v|
+R10
+n@d@p
+Z31 !s108 1559200691.634000
+Z32 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/DP.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIfZero
+Z33 !s100 7j^jC]dGz=A00R@]O:NSD1
+Z34 IB8lhe:MNTAR<BT;QFo?mM1
+Z35 VBWmA?dh]l3[oJ@HGaWNm91
+R4
+Z36 w1557692207
+Z37 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/IfZero.v
+Z38 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/IfZero.v
+L0 1
+R8
+r1
+31
+Z39 !s108 1559200691.274000
+Z40 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/IfZero.v|
+Z41 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/IfZero.v|
+R10
+Z42 n@if@zero
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM
+Z43 !s100 U<FQ@D9OZA=Yd24mma6ZY2
+Z44 I3=:I?`iK91V`SKUBH1RfL0
+Z45 VZUfTcT3NT5Uz0I5_kToMW0
+R4
+Z46 w1557766274
+Z47 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM.v
+Z48 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM.v
+L0 12
+R8
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM.v|
+R10
+Z50 n@m@e@m
+Z51 !s108 1559200691.827000
+Z52 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmem_tb
+Z53 !s100 =3e0dK=j8@BLHV:3NQH:M3
+Z54 IdfbGYU058MSI:_T]k@RkU0
+Z55 Viea73KSBVnbmVLAUD=RT;1
+R4
+Z56 w1557683836
+Z57 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM_TB.v
+Z58 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM_TB.v
+L0 1
+R8
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM_TB.v|
+R10
+Z60 !s108 1559200691.982000
+Z61 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/MEM_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPS
+Z62 !s100 ]LoJb;kIAHQUL`aJ=QQhi2
+Z63 I?PbjYJgaaoL<;<0GGdi?=3
+Z64 Vc_h=@SZJH5gm4HElh>=>K3
+R4
+Z65 w1559200429
+Z66 8C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\MIPS.v
+Z67 FC:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\MIPS.v
+L0 2
+R8
+r1
+31
+Z68 !s108 1559200690.718000
+Z69 !s107 C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\MIPS.v|
+Z70 !s90 -reportprogress|300|-work|work|C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\MIPS.v|
+R10
+Z71 n@m@i@p@s
+!i10b 1
+!s85 0
+!s101 -O0
+vmux
+Z72 !s100 nDhib[R9Bkg4eO`@CGi?51
+Z73 ImeCgG8O]3MH=Peno6gDZL1
+Z74 V6MV3oeA<;nEUiMUWn8GEd0
+R4
+Z75 w1557689568
+Z76 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Mux.v
+Z77 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Mux.v
+L0 1
+R8
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Mux.v|
+R10
+Z79 !s108 1559200692.173000
+Z80 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/Mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z81 !s100 l9;59bA9783lN>2fDzG7K1
+Z82 IG6]^ZN>5<a[2GibJCf7cY2
+Z83 V04hoHAZIR]d_b5;Od^J5G1
+R4
+Z84 w1557691968
+Z85 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/PC.v
+Z86 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/PC.v
+L0 1
+R8
+r1
+31
+Z87 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/PC.v|
+R10
+n@p@c
+Z88 !s108 1559200692.390000
+Z89 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister
+Z90 !s100 GnA5o`@P<ZB@^nb1n?Z633
+Z91 I?i0@B8]RjJd[Wn45lCgnZ0
+Z92 VHF;P=c<l>Hio7ZD`jjAl73
+R4
+Z93 w1557692512
+Z94 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register.v
+Z95 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register.v
+L0 1
+R8
+r1
+31
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register.v|
+R10
+Z97 !s108 1559200692.561000
+Z98 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister_without_ld
+Z99 !s100 N<hVfTSn`6JcE:GO2Ve[[2
+Z100 Il0JI_OA34<FRW3[RZNeP:0
+Z101 VIl:7PiOk6UjYio2NkjlC^3
+R4
+Z102 w1557692562
+Z103 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register_without_ld.v
+Z104 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register_without_ld.v
+L0 1
+R8
+r1
+31
+Z105 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register_without_ld.v|
+R10
+Z106 !s108 1559200692.779000
+Z107 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/register_without_ld.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSE
+Z108 !s100 R<`iO5ZX5@[mQ5`IemEOT1
+Z109 I=agRRjA]RLX75>S[;0Eg<3
+Z110 VbSM]kadR9lPCoWThiYCEQ2
+R4
+Z111 w1557580668
+Z112 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/SE.v
+Z113 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/SE.v
+L0 1
+R8
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/SE.v|
+R10
+n@s@e
+Z115 !s108 1559200693.012000
+Z116 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/SE.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSE_TB
+Z117 !s100 llle0V7b:DGOjoI5hPZWQ0
+Z118 I@YD?mLTB_d49MY7ECa2=f0
+Z119 VkGG`Y0Q<]b_E09nQQYH^T0
+R4
+Z120 w1557580982
+Z121 8C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\SE_TB.v
+Z122 FC:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\SE_TB.v
+L0 1
+R8
+r1
+31
+Z123 !s90 -reportprogress|300|-work|work|C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\SE_TB.v|
+R10
+Z124 n@s@e_@t@b
+Z125 !s108 1559200693.230000
+Z126 !s107 C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\SE_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vstack
+Z127 !s100 eiWC[15:`3Kl66]KN<z7F2
+Z128 I]5oc575gdS;KBjQ9SdcgI2
+Z129 Vk_P7nD7cZ?Jdh8[Y4;nb52
+R4
+Z130 w1557766650
+Z131 8C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/stack.v
+Z132 FC:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/stack.v
+L0 1
+R8
+r1
+31
+Z133 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/stack.v|
+R10
+!i10b 1
+!s85 0
+Z134 !s108 1559200693.408000
+Z135 !s107 C:/Users/Asus/Desktop/MULTI_MIPS_STACK_BASE/stack.v|
+!s101 -O0
+vstack_TB
+!i10b 1
+Z136 !s100 ?I3PZ<QI5ZZTU4cSXn>nQ2
+Z137 IVWg?nYKSnNH;V6ozWm=Q33
+Z138 VWe?>MhH_Z9See0XlHCBPB2
+R4
+Z139 w1557587508
+Z140 8C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\stack_TB.v
+Z141 FC:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\stack_TB.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1559200693.617000
+!s107 C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\stack_TB.v|
+Z142 !s90 -reportprogress|300|-work|work|C:\Users\Asus\Desktop\MULTI_MIPS_STACK_BASE\stack_TB.v|
+!s101 -O0
+R10
+Z143 nstack_@t@b
+vTB_Controller
+Z144 !s100 Yj6@azj^MPzn`ak2HNfJO1
+Z145 IP2nOadWf2c]WzEhaK1MF30
+Z146 Vh4c;B0PQcil>PV7Ti[JD^0
+R4
+R17
+R18
+R19
+Z147 L0 144
+R8
+r1
+31
+R20
+R21
+R22
+R10
+Z148 n@t@b_@controller
+!i10b 1
+!s85 0
+!s101 -O0
+vTB_IfZero
+Z149 !s100 V`EdoT;NX[Iz;]c>[bSh=0
+Z150 IF[X3LO`FV_]Vh83C<LTn<0
+Z151 VScK1Qn>YX41P6EkmgMd:z1
+R4
+R36
+R37
+R38
+L0 10
+R8
+r1
+31
+R39
+R40
+R41
+R10
+Z152 n@t@b_@if@zero
+!i10b 1
+!s85 0
+!s101 -O0
+vTB_MIPS
+Z153 !s100 I6][eVFPXVL2kdbQ8]7PN0
+Z154 IP_39:jAcd3jc0zCgI3MV12
+Z155 VG4;jGGJCDCGR6f]DnJ];Z3
+R4
+R65
+R66
+R67
+L0 19
+R8
+r1
+31
+R68
+R69
+R70
+R10
+Z156 n@t@b_@m@i@p@s
+!i10b 1
+!s85 0
+!s101 -O0

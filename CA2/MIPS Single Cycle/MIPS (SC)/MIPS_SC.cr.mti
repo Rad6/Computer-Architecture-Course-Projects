@@ -1,0 +1,95 @@
+{C:/Users/Asus/Desktop/MIPS (SC)/MIPS_DP.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/MIPS_DP.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_DP
+
+Top level modules:
+	MIPS_DP
+
+} {} {}} {C:/Users/Asus/Desktop/MIPS (SC)/IM.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/IM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} {C:/Users/Asus/Desktop/MIPS (SC)/MIPS.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/MIPS.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS
+
+Top level modules:
+	MIPS
+
+} {} {}} {C:/Users/Asus/Desktop/MIPS (SC)/ALU.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Asus/Desktop/MIPS (SC)/Mux.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/Mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2
+-- Compiling module Mux3
+
+Top level modules:
+	Mux2
+	Mux3
+
+} {} {}} {C:/Users/Asus/Desktop/MIPS (SC)/PC.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/PC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/Asus/Desktop/MIPS (SC)/TBSS.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/TBSS.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegFile_TB
+-- Compiling module PC_TB
+-- Compiling module IM_TB
+-- Compiling module MEM_TB
+-- Compiling module FILEREADER_TB
+
+Top level modules:
+	RegFile_TB
+	PC_TB
+	IM_TB
+	MEM_TB
+	FILEREADER_TB
+
+} {} {}} {C:/Users/Asus/Desktop/MIPS (SC)/Reg_File.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/Reg_File.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} {C:/Users/Asus/Desktop/MIPS (SC)/TB.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {C:/Users/Asus/Desktop/MIPS (SC)/MEM.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/MEM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM
+
+Top level modules:
+	MEM
+
+} {} {}} {C:/Users/Asus/Desktop/MIPS (SC)/adder.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/adder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/Asus/Desktop/MIPS (SC)/MIPS_CU.v} {1 {vlog -work work {C:/Users/Asus/Desktop/MIPS (SC)/MIPS_CU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_CU
+
+Top level modules:
+	MIPS_CU
+
+} {} {}}

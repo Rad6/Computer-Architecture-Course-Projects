@@ -1,0 +1,424 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Asus\Desktop\FINAL1_PIPE\pipeline
+vadder
+Z1 I^cdi2jW0<c9eHL?zA7G=E1
+Z2 VB_ARJQfSY4<eL:Fi5LO8T3
+Z3 dC:\Users\Asus\Desktop\PIPE
+Z4 w1555253510
+Z5 8C:/Users/Asus/Desktop/PIPE/adder.v
+Z6 FC:/Users/Asus/Desktop/PIPE/adder.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 DBF0bLV^Dz0Dh3OHN9Bd]0
+Z10 !s108 1559294619.787000
+Z11 !s107 C:/Users/Asus/Desktop/PIPE/adder.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z13 I5mbHEBhh]5fETNa>za0Wa0
+Z14 VD]fT;Ycmd1d3A[B3O22cZ2
+R3
+Z15 w1559278624
+Z16 8C:/Users/Asus/Desktop/PIPE/ALU.v
+Z17 FC:/Users/Asus/Desktop/PIPE/ALU.v
+L0 2
+R7
+r1
+31
+R8
+Z18 n@a@l@u
+Z19 !s100 G5nOD1`c9mCRcTzA97jBl1
+Z20 !s108 1559294619.970000
+Z21 !s107 defs.v|C:/Users/Asus/Desktop/PIPE/ALU.v|
+Z22 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vBranchPredictor
+Z23 IoC4=LN3EUL@W03ULg>DOP2
+Z24 Vla9lNH:fDaY8=C>JbIXEf0
+R3
+Z25 w1559156578
+Z26 8C:/Users/Asus/Desktop/PIPE/BranchPredictor.v
+Z27 FC:/Users/Asus/Desktop/PIPE/BranchPredictor.v
+L0 1
+R7
+r1
+31
+R8
+Z28 n@branch@predictor
+Z29 !s100 ;IWH5mmSOVPI]OIY:nL=j3
+Z30 !s108 1559294620.127000
+Z31 !s107 C:/Users/Asus/Desktop/PIPE/BranchPredictor.v|
+Z32 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/BranchPredictor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl
+Z33 IAR]0ilRS2IQfh76i1zS=e3
+Z34 V`L3YMkSGKc9cXML8m0U=W1
+R3
+Z35 w1559290815
+Z36 8C:/Users/Asus/Desktop/PIPE/Control.v
+Z37 FC:/Users/Asus/Desktop/PIPE/Control.v
+L0 5
+R7
+r1
+31
+R8
+Z38 n@control
+Z39 !s100 `PV7C3NKdS;YeHRCLNEB^2
+Z40 !s108 1559294620.274000
+Z41 !s107 defs.v|C:/Users/Asus/Desktop/PIPE/Control.v|
+Z42 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDP
+!i10b 1
+!s100 6IHN;oU6W@G2E=m]m@64L1
+IS]GL[VGXjGH72l`3MWJ1]3
+Z43 VJ6OjB9bJY@@N3P<n=McE71
+R3
+w1559295249
+Z44 8C:/Users/Asus/Desktop/PIPE/DP.v
+Z45 FC:/Users/Asus/Desktop/PIPE/DP.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1559295265.570000
+!s107 defs.v|C:/Users/Asus/Desktop/PIPE/DP.v|
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/DP.v|
+!s101 -O0
+R8
+n@d@p
+vForwardingUnit
+Z47 I9oaQ0DH[D3FR`8DKWM73o0
+Z48 VH`@UJkXfzQCn8Ee]jM5CZ1
+R3
+Z49 w1559206050
+Z50 8C:/Users/Asus/Desktop/PIPE/ForwardingUnit.v
+Z51 FC:/Users/Asus/Desktop/PIPE/ForwardingUnit.v
+L0 4
+R7
+r1
+31
+R8
+Z52 n@forwarding@unit
+Z53 !s100 <D=hP[ZV5F=fBl4MH9R1:2
+Z54 !s108 1559294620.701000
+Z55 !s107 defs.v|C:/Users/Asus/Desktop/PIPE/ForwardingUnit.v|
+Z56 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/ForwardingUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHazardDetecting
+Z57 I^i:0z23`Ln1l4?:eI^Oj71
+Z58 VW<BCQ_5iMJ7d=ceU7>lgc1
+R3
+Z59 w1559206652
+Z60 8C:/Users/Asus/Desktop/PIPE/HazardDetecting.v
+Z61 FC:/Users/Asus/Desktop/PIPE/HazardDetecting.v
+L0 1
+R7
+r1
+31
+Z62 !s108 1559294620.879000
+Z63 !s107 C:/Users/Asus/Desktop/PIPE/HazardDetecting.v|
+Z64 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/HazardDetecting.v|
+R8
+Z65 n@hazard@detecting
+Z66 !s100 z4ooDRUGO4X94];elcUn>1
+!i10b 1
+!s85 0
+!s101 -O0
+vHazardDetecting_TB
+Z67 IeozH@Yi@ZkfnDTf@`EPlh3
+Z68 VkG:obED>4dI2lceAP9jgR1
+R3
+R59
+R60
+R61
+L0 29
+R7
+r1
+31
+R62
+R63
+R64
+R8
+Z69 n@hazard@detecting_@t@b
+Z70 !s100 ?f8GY9E^1aG;6^P:<:TO:0
+!i10b 1
+!s85 0
+!s101 -O0
+vIM
+Z71 IETYd5fZg?=C=9M8JYMA;N3
+Z72 VJO::89m5Be[G]Ud6kV>IF2
+R3
+Z73 w1559217972
+Z74 8C:/Users/Asus/Desktop/PIPE/IM.v
+Z75 FC:/Users/Asus/Desktop/PIPE/IM.v
+L0 1
+R7
+r1
+31
+R8
+n@i@m
+Z76 !s100 m6S7JJJ0lM^9nQF8_[KJ;1
+Z77 !s108 1559294621.115000
+Z78 !s107 C:/Users/Asus/Desktop/PIPE/IM.v|
+Z79 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/IM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM
+Z80 I>5I?0PHnHMbhV>LcGc^aG0
+Z81 VfC8CfKabZbJ:LcPP<=JQn3
+R3
+Z82 w1558942682
+Z83 8C:/Users/Asus/Desktop/PIPE/MEM.v
+Z84 FC:/Users/Asus/Desktop/PIPE/MEM.v
+L0 3
+R7
+r1
+31
+R8
+Z85 n@m@e@m
+Z86 !s100 C1lZVZNF@>Oz8ZQ<DShCc2
+Z87 !s108 1559294621.255000
+Z88 !s107 defs.v|C:/Users/Asus/Desktop/PIPE/MEM.v|
+Z89 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2
+Z90 I=N]d2b8TILd2R`dhB?UON3
+Z91 VlPVOQSc_We=I@[Ln5bC7`2
+R3
+Z92 w1555258306
+Z93 8C:/Users/Asus/Desktop/PIPE/Mux.v
+Z94 FC:/Users/Asus/Desktop/PIPE/Mux.v
+L0 1
+R7
+r1
+31
+Z95 !s108 1559294621.439000
+Z96 !s107 C:/Users/Asus/Desktop/PIPE/Mux.v|
+Z97 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/Mux.v|
+R8
+Z98 n@mux2
+Z99 !s100 Pad`@KEQm;`Ro0U?5Yae72
+!i10b 1
+!s85 0
+!s101 -O0
+vMux3
+Z100 In5YV<3z35STjSTREGmUcO3
+Z101 VH]Z34[L:LIhSO1WiC:UBz1
+R3
+R92
+R93
+R94
+L0 8
+R7
+r1
+31
+R95
+R96
+R97
+R8
+Z102 n@mux3
+Z103 !s100 hP]g3<c:ZRc7IXaXgkUUa3
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z104 IW5jijC0L:]GU04AX7h1Me3
+Z105 VAnMifkd=4JFEAlg[77U4^2
+R3
+Z106 w1559213286
+Z107 8C:/Users/Asus/Desktop/PIPE/PC.v
+Z108 FC:/Users/Asus/Desktop/PIPE/PC.v
+L0 3
+R7
+r1
+31
+R8
+n@p@c
+Z109 !s100 Mb=^:XE`^zlk^BggD1c7@3
+Z110 !s108 1559294621.723000
+Z111 !s107 defs.v|C:/Users/Asus/Desktop/PIPE/PC.v|
+Z112 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPipeline
+Z113 IY@z?aGVl1^GaZeg;5`VPC0
+Z114 V0[a][>3hUmj^<6ETgGz;P1
+R3
+Z115 w1559294335
+Z116 8C:/Users/Asus/Desktop/PIPE/Pipeline.v
+Z117 FC:/Users/Asus/Desktop/PIPE/Pipeline.v
+L0 4
+R7
+r1
+31
+Z118 !s108 1559294621.957000
+Z119 !s107 defs.v|C:/Users/Asus/Desktop/PIPE/Pipeline.v|
+Z120 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/Pipeline.v|
+R8
+Z121 n@pipeline
+Z122 !s100 Rnib6VYHFVOQHb8E:Jn7X0
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_EX_MEM
+Z123 IM?25@P[f_5Yi^m6P09NM]2
+Z124 V3M[fiVLz:UO]oF[E8RV1d0
+R3
+Z125 w1559281854
+Z126 8C:/Users/Asus/Desktop/PIPE/Reg_EX_MEM.v
+Z127 FC:/Users/Asus/Desktop/PIPE/Reg_EX_MEM.v
+L0 3
+R7
+r1
+31
+R8
+Z128 n@reg_@e@x_@m@e@m
+Z129 !s100 zJX43I3W5zQm[BQ<Nk`>23
+Z130 !s108 1559294622.216000
+Z131 !s107 defs.v|C:/Users/Asus/Desktop/PIPE/Reg_EX_MEM.v|
+Z132 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/Reg_EX_MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_ID_EX
+Z133 I6@O>4=GE?SG24GSUaY_`=3
+Z134 V_>i`lKoP>IM?4eoQ9[V;^1
+R3
+Z135 w1559223906
+Z136 8C:/Users/Asus/Desktop/PIPE/Reg_ID_EX.v
+Z137 FC:/Users/Asus/Desktop/PIPE/Reg_ID_EX.v
+L0 3
+R7
+r1
+31
+R8
+Z138 n@reg_@i@d_@e@x
+Z139 !s100 ?mc>8WGF=ga_hzJ1HGmHK0
+Z140 !s108 1559294622.371000
+Z141 !s107 defs.v|C:/Users/Asus/Desktop/PIPE/Reg_ID_EX.v|
+Z142 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/Reg_ID_EX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_IF_ID
+Z143 I8E]XGG=aH=46RSih_LdD80
+Z144 VbzNCeEiGSG^]WL:W[8<MN2
+R3
+Z145 w1558954106
+Z146 8C:/Users/Asus/Desktop/PIPE/Reg_IF_ID.v
+Z147 FC:/Users/Asus/Desktop/PIPE/Reg_IF_ID.v
+L0 3
+R7
+r1
+31
+R8
+Z148 n@reg_@i@f_@i@d
+Z149 !s100 ghE19eWI33TPWEJg3S<n>3
+Z150 !s108 1559294622.543000
+Z151 !s107 defs.v|C:/Users/Asus/Desktop/PIPE/Reg_IF_ID.v|
+Z152 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/Reg_IF_ID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_MEM_WB
+Z153 I8][:Rn_ZEi@8dgPdbAKSK2
+Z154 V5cehGP^4hQH_BOz=BBe6b0
+R3
+Z155 w1559284370
+Z156 8C:/Users/Asus/Desktop/PIPE/Reg_MEM_WB.v
+Z157 FC:/Users/Asus/Desktop/PIPE/Reg_MEM_WB.v
+L0 3
+R7
+r1
+31
+R8
+Z158 n@reg_@m@e@m_@w@b
+Z159 !s100 X]FJR`I>NRa>z49Q2n]I10
+Z160 !s108 1559294622.727000
+Z161 !s107 defs.v|C:/Users/Asus/Desktop/PIPE/Reg_MEM_WB.v|
+Z162 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/Reg_MEM_WB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRF
+Z163 I4WNiMI2iLg>V2LFE8miHE3
+Z164 Vg[]5M]`81OLP9g<h2]VlS2
+R3
+Z165 w1558953966
+Z166 8C:/Users/Asus/Desktop/PIPE/RF.v
+Z167 FC:/Users/Asus/Desktop/PIPE/RF.v
+L0 3
+R7
+r1
+31
+R8
+n@r@f
+Z168 !s100 f9aLl@:NE_@Va_ZRH`Y`^2
+Z169 !s108 1559294622.884000
+Z170 !s107 defs.v|C:/Users/Asus/Desktop/PIPE/RF.v|
+Z171 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/RF.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSE
+Z172 I?4BD;OO^;H8=<kbS^JZ551
+Z173 V4;HajegWazOlXXB02?4i]0
+R3
+Z174 w1559217834
+Z175 8C:/Users/Asus/Desktop/PIPE/SE.v
+Z176 FC:/Users/Asus/Desktop/PIPE/SE.v
+L0 1
+R7
+r1
+31
+R8
+n@s@e
+Z177 !s100 CFKToPkg9ZGd6J2zSTH1[2
+Z178 !s108 1559294623.050000
+Z179 !s107 C:/Users/Asus/Desktop/PIPE/SE.v|
+Z180 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/PIPE/SE.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB_PIPELINE
+Z181 Io=<Pf0eYOWRg9>Ki`T0LP0
+Z182 VNiZOU?N?B^_4XeL4h1TmT2
+R3
+R115
+R116
+R117
+L0 32
+R7
+r1
+31
+R118
+R119
+R120
+R8
+Z183 n@t@b_@p@i@p@e@l@i@n@e
+Z184 !s100 V<=j62jF@<01AFcn0;:2S0
+!i10b 1
+!s85 0
+!s101 -O0

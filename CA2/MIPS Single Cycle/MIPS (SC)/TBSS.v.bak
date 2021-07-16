@@ -1,0 +1,24 @@
+module RegFile_TB();
+
+  wire[15:0] out1, out2;
+  reg [15:0] data = 29;
+  reg [1 :0] in1=2'b00, in2=2'b00, writereg = 2'b01;
+  reg [2 :0] sig_window = 3'b010;
+  reg        sig_write = 1'b0;
+  
+  reg_file UUT( .read_in_1(in1), .read_in_2(in2), .write_reg(writereg), .wnd(sig_window), 
+                .write_data(data), .write_to_reg(sig_write),
+                .read_out_1(out1), .read_out_2(out2));
+
+  initial begin
+    #10; sig_write = 1'b1;
+    #50; in1=2'b01; 
+
+    #100; $stop;
+
+
+
+  end
+      
+  
+endmodule

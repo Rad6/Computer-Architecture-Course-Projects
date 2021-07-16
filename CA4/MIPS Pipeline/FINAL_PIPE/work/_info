@@ -1,0 +1,424 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\stack_based
+vadder
+Z1 !s100 o51`J6D<?0T>A`>LIgoJ[3
+Z2 IR?mD<TLJZRGg;bOLJm0DB0
+Z3 VB_ARJQfSY4<eL:Fi5LO8T3
+Z4 dD:\pipeline
+Z5 w1555253509
+Z6 8D:/pipeline/adder.v
+Z7 FD:/pipeline/adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/pipeline/adder.v|
+Z10 o-work work -O0
+Z11 !s108 1559289497.647000
+Z12 !s107 D:/pipeline/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z13 !s100 V2l?o0a30MlGL5HI0=ZFe3
+Z14 IDlm[9ZGjC7WO5a6]`BA=33
+Z15 VD]fT;Ycmd1d3A[B3O22cZ2
+R4
+Z16 w1559278623
+Z17 8D:/pipeline/ALU.v
+Z18 FD:/pipeline/ALU.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:/pipeline/ALU.v|
+R10
+Z20 n@a@l@u
+Z21 !s108 1559289494.225000
+Z22 !s107 defs.v|D:/pipeline/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vBranchPredictor
+Z23 !s100 o9PZXWQjaaBROnRLXLnI?3
+Z24 I751a<PMhJR2KPVJ6b?_:N3
+Z25 Vla9lNH:fDaY8=C>JbIXEf0
+R4
+Z26 w1559156576
+Z27 8D:/pipeline/BranchPredictor.v
+Z28 FD:/pipeline/BranchPredictor.v
+L0 1
+R8
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|D:/pipeline/BranchPredictor.v|
+R10
+Z30 n@branch@predictor
+Z31 !s108 1559289492.986000
+Z32 !s107 D:/pipeline/BranchPredictor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl
+Z33 !s100 Pjd0?<5AMBZWkQBC4?AlZ0
+Z34 I?7R<VE0_eFGISGYak]?CK0
+Z35 V`L3YMkSGKc9cXML8m0U=W1
+Z36 dC:\Users\Asus\Desktop\FINAL1_PIPE\pipeline
+Z37 w1559290815
+Z38 8C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Control.v
+Z39 FC:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Control.v
+L0 5
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Control.v|
+R10
+Z41 n@control
+Z42 !s108 1559294396.789000
+Z43 !s107 defs.v|C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDP
+Z44 !s100 CJX^Nf^MVZ`R`mI1<KgDB1
+Z45 ILnVW6WeJmVBgOj8Im6XmL0
+Z46 VJ6OjB9bJY@@N3P<n=McE71
+R36
+Z47 w1559289436
+Z48 8C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/DP.v
+Z49 FC:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/DP.v
+L0 3
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/DP.v|
+R10
+n@d@p
+!i10b 1
+!s85 0
+Z51 !s108 1559294396.889000
+Z52 !s107 defs.v|C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/DP.v|
+!s101 -O0
+vForwardingUnit
+Z53 !s100 G@SH<LE=GQO7ZBff=WdSM2
+Z54 IJPGcG__:Pl;2>]oEUX]TG2
+Z55 VH`@UJkXfzQCn8Ee]jM5CZ1
+R4
+Z56 w1559206049
+Z57 8D:/pipeline/ForwardingUnit.v
+Z58 FD:/pipeline/ForwardingUnit.v
+L0 4
+R8
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|D:/pipeline/ForwardingUnit.v|
+R10
+Z60 n@forwarding@unit
+Z61 !s108 1559289493.541000
+Z62 !s107 defs.v|D:/pipeline/ForwardingUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHazardDetecting
+Z63 !s100 AE0=I7WF<J3L@]j;iV0UC3
+Z64 IB?RX`e?4BEBEPQCXXBI_V0
+Z65 VW<BCQ_5iMJ7d=ceU7>lgc1
+R4
+Z66 w1559206650
+Z67 8D:/pipeline/HazardDetecting.v
+Z68 FD:/pipeline/HazardDetecting.v
+L0 1
+R8
+r1
+31
+Z69 !s108 1559289492.614000
+Z70 !s107 D:/pipeline/HazardDetecting.v|
+Z71 !s90 -reportprogress|300|-work|work|D:/pipeline/HazardDetecting.v|
+R10
+Z72 n@hazard@detecting
+!i10b 1
+!s85 0
+!s101 -O0
+vHazardDetecting_TB
+Z73 !s100 d7AkV4;AC0HaLj^CEKX@M1
+Z74 ISF9ld]=LVGE]2mzfVZ9bo1
+Z75 VkG:obED>4dI2lceAP9jgR1
+R4
+R66
+R67
+R68
+L0 29
+R8
+r1
+31
+R69
+R70
+R71
+R10
+Z76 n@hazard@detecting_@t@b
+!i10b 1
+!s85 0
+!s101 -O0
+vIM
+Z77 !s100 cNIFneI5enz0?E9>60Vah3
+Z78 IQBGNfA;_[Jk]BQR<n?4aM3
+Z79 VJO::89m5Be[G]Ud6kV>IF2
+R4
+Z80 w1559217970
+Z81 8D:/pipeline/IM.v
+Z82 FD:/pipeline/IM.v
+L0 1
+R8
+r1
+31
+Z83 !s90 -reportprogress|300|-work|work|D:/pipeline/IM.v|
+R10
+n@i@m
+Z84 !s108 1559289494.578000
+Z85 !s107 D:/pipeline/IM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM
+Z86 !s100 A9iNEaiFPOVi>_2;W93E<0
+Z87 IzCc_7oGGo>9Xea:V5d]@30
+Z88 VfC8CfKabZbJ:LcPP<=JQn3
+R4
+Z89 w1558942680
+Z90 8D:/pipeline/MEM.v
+Z91 FD:/pipeline/MEM.v
+L0 3
+R8
+r1
+31
+Z92 !s90 -reportprogress|300|-work|work|D:/pipeline/MEM.v|
+R10
+Z93 n@m@e@m
+Z94 !s108 1559289494.838000
+Z95 !s107 defs.v|D:/pipeline/MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2
+Z96 !s100 SZfkBH7UFJMM>Wf;Hdj1j3
+Z97 IKRJ_]zoP5Bd4e76EDS=5K3
+Z98 VlPVOQSc_We=I@[Ln5bC7`2
+R4
+Z99 w1555258304
+Z100 8D:/pipeline/Mux.v
+Z101 FD:/pipeline/Mux.v
+L0 1
+R8
+r1
+31
+Z102 !s108 1559289495.091000
+Z103 !s107 D:/pipeline/Mux.v|
+Z104 !s90 -reportprogress|300|-work|work|D:/pipeline/Mux.v|
+R10
+Z105 n@mux2
+!i10b 1
+!s85 0
+!s101 -O0
+vMux3
+Z106 !s100 F6LTT78zbj2@cNzWgW@kY2
+Z107 IDidL91B^1Elbm08e?08WC1
+Z108 VH]Z34[L:LIhSO1WiC:UBz1
+R4
+R99
+R100
+R101
+L0 8
+R8
+r1
+31
+R102
+R103
+R104
+R10
+Z109 n@mux3
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z110 !s100 jSgBP8n5DKH_B53?NX>jB2
+Z111 I@6LW7^cRlFUZ8V4VKkzhM0
+Z112 VAnMifkd=4JFEAlg[77U4^2
+R4
+Z113 w1559213284
+Z114 8D:/pipeline/PC.v
+Z115 FD:/pipeline/PC.v
+L0 3
+R8
+r1
+31
+Z116 !s90 -reportprogress|300|-work|work|D:/pipeline/PC.v|
+R10
+n@p@c
+Z117 !s108 1559289495.549000
+Z118 !s107 defs.v|D:/pipeline/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPipeline
+!i10b 1
+Z119 !s100 J4=b_;;i_L77mlc_1eWE^3
+Z120 IL[Udb]84W7ozl?>hc67X[2
+Z121 V0[a][>3hUmj^<6ETgGz;P1
+R36
+Z122 w1559294335
+Z123 8C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Pipeline.v
+Z124 FC:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Pipeline.v
+L0 4
+R8
+r1
+!s85 0
+31
+Z125 !s108 1559294396.993000
+Z126 !s107 defs.v|C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Pipeline.v|
+Z127 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Pipeline.v|
+!s101 -O0
+R10
+Z128 n@pipeline
+vReg_EX_MEM
+Z129 !s100 4ja74Ngc8lc>hbP8Ok4Vz3
+Z130 I=N?3<1X8i`5f2iW`j=YVK0
+Z131 V3M[fiVLz:UO]oF[E8RV1d0
+R4
+Z132 w1559281853
+Z133 8D:/pipeline/Reg_EX_MEM.v
+Z134 FD:/pipeline/Reg_EX_MEM.v
+L0 3
+R8
+r1
+31
+Z135 !s90 -reportprogress|300|-work|work|D:/pipeline/Reg_EX_MEM.v|
+R10
+Z136 n@reg_@e@x_@m@e@m
+Z137 !s108 1559289495.920000
+Z138 !s107 defs.v|D:/pipeline/Reg_EX_MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_ID_EX
+Z139 !s100 ?:emJdE_@YDDi85`5n`D_2
+Z140 IKU>eXUW2]99HASiMm[[_;0
+Z141 V_>i`lKoP>IM?4eoQ9[V;^1
+R4
+Z142 w1559223905
+Z143 8D:/pipeline/Reg_ID_EX.v
+Z144 FD:/pipeline/Reg_ID_EX.v
+L0 3
+R8
+r1
+31
+Z145 !s90 -reportprogress|300|-work|work|D:/pipeline/Reg_ID_EX.v|
+R10
+Z146 n@reg_@i@d_@e@x
+Z147 !s108 1559289496.232000
+Z148 !s107 defs.v|D:/pipeline/Reg_ID_EX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_IF_ID
+Z149 !s100 b>cga9jP1U7@dPbZQACA@2
+Z150 IY3I`K6CmB45XYYPjiUX880
+Z151 VbzNCeEiGSG^]WL:W[8<MN2
+R4
+Z152 w1558954105
+Z153 8D:/pipeline/Reg_IF_ID.v
+Z154 FD:/pipeline/Reg_IF_ID.v
+L0 3
+R8
+r1
+31
+Z155 !s90 -reportprogress|300|-work|work|D:/pipeline/Reg_IF_ID.v|
+R10
+Z156 n@reg_@i@f_@i@d
+Z157 !s108 1559289496.473000
+Z158 !s107 defs.v|D:/pipeline/Reg_IF_ID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_MEM_WB
+Z159 !s100 dl^T^F_LlME<31_OJF:QR0
+Z160 IIJ9TlUf1IUV>^f_a0c9Vj0
+Z161 V5cehGP^4hQH_BOz=BBe6b0
+R4
+Z162 w1559284369
+Z163 8D:/pipeline/Reg_MEM_WB.v
+Z164 FD:/pipeline/Reg_MEM_WB.v
+L0 3
+R8
+r1
+31
+Z165 !s90 -reportprogress|300|-work|work|D:/pipeline/Reg_MEM_WB.v|
+R10
+Z166 n@reg_@m@e@m_@w@b
+Z167 !s108 1559289496.815000
+Z168 !s107 defs.v|D:/pipeline/Reg_MEM_WB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRF
+Z169 !s100 gSDLMj9od6mWhE]XWn4Sk0
+Z170 I6I]eAL9gIPj8=<Q;icg`13
+Z171 Vg[]5M]`81OLP9g<h2]VlS2
+R4
+Z172 w1558953964
+Z173 8D:/pipeline/RF.v
+Z174 FD:/pipeline/RF.v
+L0 3
+R8
+r1
+31
+Z175 !s90 -reportprogress|300|-work|work|D:/pipeline/RF.v|
+R10
+n@r@f
+Z176 !s108 1559289497.352000
+Z177 !s107 defs.v|D:/pipeline/RF.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSE
+Z178 !s100 T`[QIl083D=4di<X=z[zG1
+Z179 I6?<FKd2:QQ;=]iAZZWO?F1
+Z180 V4;HajegWazOlXXB02?4i]0
+R4
+Z181 w1559217833
+Z182 8D:/pipeline/SE.v
+Z183 FD:/pipeline/SE.v
+L0 1
+R8
+r1
+31
+Z184 !s90 -reportprogress|300|-work|work|D:/pipeline/SE.v|
+R10
+n@s@e
+Z185 !s108 1559289497.949000
+Z186 !s107 D:/pipeline/SE.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB_PIPELINE
+!i10b 1
+Z187 !s100 7F6Q?CA3B6l[7<dUKIO1=0
+Z188 IgVS1f]iY0EKNCnM9I8ccP0
+Z189 VNiZOU?N?B^_4XeL4h1TmT2
+R36
+R122
+R123
+R124
+L0 32
+R8
+r1
+!s85 0
+31
+R125
+R126
+R127
+!s101 -O0
+R10
+Z190 n@t@b_@p@i@p@e@l@i@n@e

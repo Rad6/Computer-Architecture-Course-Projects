@@ -1,0 +1,134 @@
+D:/pipeline/ALU.v {1 {vlog -work work D:/pipeline/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/pipeline/defs.v {1 {vlog -work work D:/pipeline/defs.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} D:/pipeline/Mux.v {1 {vlog -work work D:/pipeline/Mux.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2
+-- Compiling module Mux3
+
+Top level modules:
+	Mux2
+	Mux3
+
+} {} {}} D:/pipeline/PC.v {1 {vlog -work work D:/pipeline/PC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/pipeline/Reg_MEM_WB.v {1 {vlog -work work D:/pipeline/Reg_MEM_WB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg_MEM_WB
+
+Top level modules:
+	Reg_MEM_WB
+
+} {} {}} C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/DP.v {1 {vlog -work work C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/DP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DP
+
+Top level modules:
+	DP
+
+} {} {}} D:/pipeline/MEM.v {1 {vlog -work work D:/pipeline/MEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM
+
+Top level modules:
+	MEM
+
+} {} {}} D:/pipeline/Reg_EX_MEM.v {1 {vlog -work work D:/pipeline/Reg_EX_MEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg_EX_MEM
+
+Top level modules:
+	Reg_EX_MEM
+
+} {} {}} D:/pipeline/adder.v {1 {vlog -work work D:/pipeline/adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} D:/pipeline/RF.v {1 {vlog -work work D:/pipeline/RF.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Pipeline.v {1 {vlog -work work C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Pipeline.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Pipeline
+-- Compiling module TB_PIPELINE
+
+Top level modules:
+	TB_PIPELINE
+
+} {} {}} D:/pipeline/BranchPredictor.v {1 {vlog -work work D:/pipeline/BranchPredictor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BranchPredictor
+
+Top level modules:
+	BranchPredictor
+
+} {} {}} D:/pipeline/ForwardingUnit.v {1 {vlog -work work D:/pipeline/ForwardingUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Control.v {1 {vlog -work work C:/Users/Asus/Desktop/FINAL1_PIPE/pipeline/Control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} D:/pipeline/Reg_ID_EX.v {1 {vlog -work work D:/pipeline/Reg_ID_EX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg_ID_EX
+
+Top level modules:
+	Reg_ID_EX
+
+} {} {}} D:/pipeline/IM.v {1 {vlog -work work D:/pipeline/IM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} D:/pipeline/Reg_IF_ID.v {1 {vlog -work work D:/pipeline/Reg_IF_ID.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg_IF_ID
+
+Top level modules:
+	Reg_IF_ID
+
+} {} {}} D:/pipeline/SE.v {1 {vlog -work work D:/pipeline/SE.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SE
+
+Top level modules:
+	SE
+
+} {} {}} D:/pipeline/HazardDetecting.v {1 {vlog -work work D:/pipeline/HazardDetecting.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HazardDetecting
+-- Compiling module HazardDetecting_TB
+
+Top level modules:
+	HazardDetecting_TB
+
+} {} {}}

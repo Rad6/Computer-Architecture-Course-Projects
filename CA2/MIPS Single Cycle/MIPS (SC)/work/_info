@@ -1,0 +1,382 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vadder
+Z1 !s100 eV;^c1H<>@<e^n9b]gd5F3
+Z2 IAUeUdfj@MhS;<giEJ67iC2
+Z3 VB_ARJQfSY4<eL:Fi5LO8T3
+Z4 dC:\Users\Asus\Desktop\MIPS (SC)
+Z5 w1555253509
+Z6 8C:/Users/Asus/Desktop/MIPS (SC)/adder.v
+Z7 FC:/Users/Asus/Desktop/MIPS (SC)/adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/adder.v|
+Z10 o-work work -O0
+Z11 !s108 1555317584.868000
+Z12 !s107 C:/Users/Asus/Desktop/MIPS (SC)/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z13 !s100 VzTJJSzT<bnAjZDPI^^C03
+Z14 I9Y>:[_lK_BLRgM;`Q7zbd0
+Z15 V<jkN;k_Jn]0[kLhQATO_Z3
+R4
+Z16 w1555254598
+Z17 8C:/Users/Asus/Desktop/MIPS (SC)/ALU.v
+Z18 FC:/Users/Asus/Desktop/MIPS (SC)/ALU.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/ALU.v|
+R10
+Z20 n@a@l@u
+Z21 !s108 1555317585.060000
+Z22 !s107 C:/Users/Asus/Desktop/MIPS (SC)/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vca2_cu
+Z23 If[jiT2D`L8RKPe@lR^ea12
+Z24 V;l<Xe]C::4hPzZJkM_Gmb2
+R4
+Z25 w1555262727
+Z26 8C:\Users\Asus\Desktop\MIPS (SC)\MIPS_CU.v
+Z27 FC:\Users\Asus\Desktop\MIPS (SC)\MIPS_CU.v
+L0 2
+R8
+r1
+31
+R10
+Z28 !s100 ]G[H>V?Chg<Hi_j^848n;2
+Z29 !s108 1555262805.093000
+Z30 !s107 C:\Users\Asus\Desktop\MIPS (SC)\MIPS_CU.v|
+Z31 !s90 -reportprogress|300|-work|work|C:\Users\Asus\Desktop\MIPS (SC)\MIPS_CU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFILEREADER_TB
+Z32 !s100 47fXB[f=YEaUFGc_[oVGc3
+Z33 I71;^37A3`X_aMC?5A1E;00
+Z34 V9eUGLTdDmSP8@dZeA5X5V1
+R4
+Z35 w1555252432
+Z36 8C:/Users/Asus/Desktop/MIPS (SC)/TBSS.v
+Z37 FC:/Users/Asus/Desktop/MIPS (SC)/TBSS.v
+L0 88
+R8
+r1
+31
+Z38 !s108 1555317584.334000
+Z39 !s107 C:/Users/Asus/Desktop/MIPS (SC)/TBSS.v|
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/TBSS.v|
+R10
+Z41 n@f@i@l@e@r@e@a@d@e@r_@t@b
+!i10b 1
+!s85 0
+!s101 -O0
+vIM
+Z42 !s100 RT:9LlQ0JIcez<f5lD6]Q2
+Z43 IjgBo=z=J<R0EXlAPVcMMZ1
+Z44 V4>e<A2ETFD7]R;a:mESkc1
+R4
+Z45 w1555251574
+Z46 8C:/Users/Asus/Desktop/MIPS (SC)/IM.v
+Z47 FC:/Users/Asus/Desktop/MIPS (SC)/IM.v
+L0 1
+R8
+r1
+31
+Z48 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/IM.v|
+R10
+n@i@m
+Z49 !s108 1555317585.458000
+Z50 !s107 C:/Users/Asus/Desktop/MIPS (SC)/IM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIM_TB
+Z51 !s100 BE]^]D=j1SQ6TQMgZKg@H0
+Z52 I]b[2]5dod28UmWQc7lNF@1
+Z53 V2cS^`Y[>1:EPjk@n?dDQc1
+R4
+R35
+R36
+R37
+L0 44
+R8
+r1
+31
+R38
+R39
+R40
+R10
+Z54 n@i@m_@t@b
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM
+Z55 !s100 Hm<nHSm6E9EQ=c^e:`9Kd3
+Z56 IeRfim]WcMRZ_PQ0lL45fA2
+Z57 VJIR]=J;I:OKD7aQ]ic_:a0
+R4
+Z58 w1555269303
+Z59 8C:/Users/Asus/Desktop/MIPS (SC)/MEM.v
+Z60 FC:/Users/Asus/Desktop/MIPS (SC)/MEM.v
+L0 12
+R8
+r1
+31
+Z61 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/MEM.v|
+R10
+Z62 n@m@e@m
+Z63 !s108 1555317585.616000
+Z64 !s107 C:/Users/Asus/Desktop/MIPS (SC)/MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM_TB
+Z65 !s100 b18c__zAPM8n<g;@F:a9Y3
+Z66 I^]Qz66Z<WE1<0`VUbH2<<3
+Z67 VjVL;DPRlQQg0KH=L=oYQ71
+R4
+R35
+R36
+R37
+L0 60
+R8
+r1
+31
+R38
+R39
+R40
+R10
+Z68 n@m@e@m_@t@b
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPS
+Z69 !s100 POjYOY519NGKf`E`JcTlB3
+Z70 IO7LH7DLD[z:Y_Z9TPe4`T0
+Z71 VR2P?F4i]f5ROem5PBF;DO2
+R4
+Z72 w1555266561
+Z73 8C:/Users/Asus/Desktop/MIPS (SC)/MIPS.v
+Z74 FC:/Users/Asus/Desktop/MIPS (SC)/MIPS.v
+L0 1
+R8
+r1
+31
+Z75 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/MIPS.v|
+R10
+Z76 n@m@i@p@s
+!i10b 1
+!s85 0
+Z77 !s108 1555317586.195000
+Z78 !s107 C:/Users/Asus/Desktop/MIPS (SC)/MIPS.v|
+!s101 -O0
+vMIPS_CU
+Z79 !s100 PHEOhJ29`ZK_>m06fi@4g0
+Z80 I2Y=>U1YNgoFWlDBGEUOf?0
+Z81 VU>bP0_k[R9jlU?i6>OME23
+R4
+Z82 w1555262874
+Z83 8C:/Users/Asus/Desktop/MIPS (SC)/MIPS_CU.v
+Z84 FC:/Users/Asus/Desktop/MIPS (SC)/MIPS_CU.v
+L0 2
+R8
+r1
+31
+Z85 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/MIPS_CU.v|
+R10
+Z86 n@m@i@p@s_@c@u
+Z87 !s108 1555317585.997000
+Z88 !s107 C:/Users/Asus/Desktop/MIPS (SC)/MIPS_CU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPS_DP
+Z89 !s100 AYT=<lCJSW9HWGDDMcMei2
+Z90 I17EKDg_2fc93[OL_=Kmjc1
+Z91 VQ0h5<YgU12D^OCZ_FFbNY3
+R4
+Z92 w1555269307
+Z93 8C:/Users/Asus/Desktop/MIPS (SC)/MIPS_DP.v
+Z94 FC:/Users/Asus/Desktop/MIPS (SC)/MIPS_DP.v
+L0 1
+R8
+r1
+31
+Z95 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/MIPS_DP.v|
+R10
+Z96 n@m@i@p@s_@d@p
+Z97 !s108 1555317585.776000
+Z98 !s107 C:/Users/Asus/Desktop/MIPS (SC)/MIPS_DP.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2
+Z99 !s100 DcOmG_CD=d7RPLP83`2Uk3
+Z100 IJ>EALkHACglE_?;Lf9m6>3
+Z101 VlPVOQSc_We=I@[Ln5bC7`2
+R4
+Z102 w1555258304
+Z103 8C:/Users/Asus/Desktop/MIPS (SC)/Mux.v
+Z104 FC:/Users/Asus/Desktop/MIPS (SC)/Mux.v
+L0 1
+R8
+r1
+31
+Z105 !s108 1555317585.270000
+Z106 !s107 C:/Users/Asus/Desktop/MIPS (SC)/Mux.v|
+Z107 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/Mux.v|
+R10
+Z108 n@mux2
+!i10b 1
+!s85 0
+!s101 -O0
+vMux3
+Z109 !s100 [hc5ZNHcOTFbgUDcg3]Y[1
+Z110 I;z0;il1M[1Q[70KYY:2I@0
+Z111 VH]Z34[L:LIhSO1WiC:UBz1
+R4
+R102
+R103
+R104
+L0 8
+R8
+r1
+31
+R105
+R106
+R107
+R10
+Z112 n@mux3
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z113 !s100 5CVm`b2l]T71>i]?QilNE2
+Z114 IVW;;LU;b>]1N=RGTK4PN:1
+Z115 VTN^O8cIc0jm0^Ia]J3=0;3
+R4
+Z116 w1555252823
+Z117 8C:/Users/Asus/Desktop/MIPS (SC)/PC.v
+Z118 FC:/Users/Asus/Desktop/MIPS (SC)/PC.v
+L0 1
+R8
+r1
+31
+Z119 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/PC.v|
+R10
+n@p@c
+Z120 !s108 1555317584.723000
+Z121 !s107 C:/Users/Asus/Desktop/MIPS (SC)/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_TB
+Z122 !s100 md@O^i>X1KD8f3JAY50Am0
+Z123 IG7KMQR367ChOnWzoAfUCS0
+Z124 V?_[^H<WGcLN:[3el:>j5j0
+R4
+R35
+R36
+R37
+L0 25
+R8
+r1
+31
+R38
+R39
+R40
+R10
+Z125 n@p@c_@t@b
+!i10b 1
+!s85 0
+!s101 -O0
+vreg_file
+Z126 !s100 Lj9z[hkjYN<VBDo6e[Aem2
+Z127 I4@`fzEkYm[2QH=j=fdlE31
+Z128 VBbz5ghO5Gg=_NUiE26]g=2
+R4
+Z129 w1555243078
+Z130 8C:/Users/Asus/Desktop/MIPS (SC)/Reg_File.v
+Z131 FC:/Users/Asus/Desktop/MIPS (SC)/Reg_File.v
+L0 1
+R8
+r1
+31
+Z132 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/Reg_File.v|
+R10
+Z133 !s108 1555249129.076000
+Z134 !s107 C:/Users/Asus/Desktop/MIPS (SC)/Reg_File.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFile_TB
+Z135 !s100 KC[lm^;^=jSi74nFA9W[d1
+Z136 Io`imJ@Q[86=GO^SM<kAD72
+Z137 V7`Wci[J[flAYcYaH2JH6S3
+R4
+R35
+R36
+R37
+L0 1
+R8
+r1
+31
+R38
+R39
+R40
+R10
+Z138 n@reg@file_@t@b
+!i10b 1
+!s85 0
+!s101 -O0
+vRF
+Z139 !s100 CmRa]iU59CR;]kb;4]zoG0
+Z140 IXOQJf_E?D@z:PI``f=ZXV3
+Z141 VV6FDjHzfoEOd8cGURn0Hj3
+R4
+Z142 w1555252454
+R130
+R131
+L0 1
+R8
+r1
+31
+R132
+R10
+n@r@f
+Z143 !s108 1555317584.143000
+R134
+!i10b 1
+!s85 0
+!s101 -O0
+vTB
+!i10b 1
+Z144 !s100 H=hCZEeOX;HQGWgOT?2133
+Z145 IJ]4G3cdNKVK;1N<Gb:K@30
+Z146 Vc<=32996OT2f`M7E_UhYX1
+R4
+Z147 w1555269784
+Z148 8C:/Users/Asus/Desktop/MIPS (SC)/TB.v
+Z149 FC:/Users/Asus/Desktop/MIPS (SC)/TB.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1555317586.337000
+!s107 C:/Users/Asus/Desktop/MIPS (SC)/TB.v|
+Z150 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/MIPS (SC)/TB.v|
+!s101 -O0
+R10
+n@t@b

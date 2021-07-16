@@ -1,0 +1,144 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vCach_CU
+Z1 !s100 d_n3SUo>_CVBff1WD7^Q00
+Z2 IO>jY=_B4?QI>aUSLJc;e>2
+Z3 Vlz3Y_B2]Eoj2XPkXjT;fI1
+Z4 dC:\Users\Asus\Desktop\CA5
+Z5 w1560162362
+Z6 8C:/Users/Asus/Desktop/CA5/Cache_CU.v
+Z7 FC:/Users/Asus/Desktop/CA5/Cache_CU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA5/Cache_CU.v|
+Z10 o-work work -O0
+Z11 n@cach_@c@u
+!i10b 1
+!s85 0
+Z12 !s108 1560169896.028000
+Z13 !s107 C:/Users/Asus/Desktop/CA5/Cache_CU.v|
+!s101 -O0
+vCache
+Z14 !s100 MC5SonzX9GD3Vc839XAEH3
+Z15 IV]bi:OIjfIz_=j0SMzdO62
+Z16 VL2ef6zS?fcLFk5HPgSiGG1
+R4
+Z17 w1560162390
+Z18 8C:/Users/Asus/Desktop/CA5/Cache.v
+Z19 FC:/Users/Asus/Desktop/CA5/Cache.v
+L0 3
+R8
+r1
+31
+Z20 !s108 1560169895.880000
+Z21 !s107 defs.v|C:/Users/Asus/Desktop/CA5/Cache.v|
+Z22 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA5/Cache.v|
+R10
+Z23 n@cache
+!i10b 1
+!s85 0
+!s101 -O0
+vcache_tb
+Z24 !s100 iHLEkG4Xd>IlTWa1AW_]73
+Z25 I_[V?8OzANVJVbgS^2Z;O=3
+Z26 VYbIf4GShkndohaboh3SJT2
+R4
+R17
+R18
+R19
+L0 56
+R8
+r1
+31
+R20
+R21
+R22
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vDP
+!i10b 1
+!s100 dP@L`ZLChf5LPhfaU`NFi2
+I8BJ@^0ORgCl[5kO`62;P<1
+Z27 Vz]GGoDN:AYMm=8Kfm`4?S3
+R4
+Z28 w1560169893
+Z29 8C:\Users\Asus\Desktop\CA5\DP.v
+Z30 FC:\Users\Asus\Desktop\CA5\DP.v
+L0 3
+R8
+r1
+!s85 0
+31
+Z31 !s108 1560169896.130000
+Z32 !s107 defs.v|C:\Users\Asus\Desktop\CA5\DP.v|
+Z33 !s90 -reportprogress|300|-work|work|C:\Users\Asus\Desktop\CA5\DP.v|
+!s101 -O0
+R10
+n@d@p
+vMEM
+Z34 !s100 4zC0>NSQ89b6l>7n`n7A;2
+Z35 IIlia3X5>hMz`QTV9j@kb?1
+Z36 VE=>GcUPA=PLmN9??_C`G31
+R4
+Z37 w1560164738
+Z38 8C:/Users/Asus/Desktop/CA5/MainMemory.v
+Z39 FC:/Users/Asus/Desktop/CA5/MainMemory.v
+L0 3
+R8
+r1
+31
+Z40 !s108 1560169895.697000
+Z41 !s107 defs.v|C:/Users/Asus/Desktop/CA5/MainMemory.v|
+Z42 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA5/MainMemory.v|
+R10
+Z43 n@m@e@m
+!i10b 1
+!s85 0
+!s101 -O0
+vTB
+!i10b 1
+Z44 !s100 :kA[a[oe^IGh7]@[RSE<`0
+Z45 IacQk>^Q=oO<67?CN^eVI<2
+Z46 Vc<=32996OT2f`M7E_UhYX1
+R4
+R28
+R29
+R30
+L0 51
+R8
+r1
+!s85 0
+31
+R31
+R32
+R33
+!s101 -O0
+R10
+n@t@b
+vTB_MEM
+Z47 !s100 BTfWXIb62bRMjA@2MaV[N1
+Z48 IbG>W]4U[Dfo5cO>@LU;De1
+Z49 VfH1TaV>L?Ca;2Rb`9i^H40
+R4
+R37
+R38
+R39
+L0 38
+R8
+r1
+31
+R40
+R41
+R42
+R10
+Z50 n@t@b_@m@e@m
+!i10b 1
+!s85 0
+!s101 -O0
